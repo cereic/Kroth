@@ -19,7 +19,7 @@ function defineConsts($input=NULL) {
 		foreach ($input as $constant => $value)
 			define($constant, $value);
 	}else {
-		foreach ($constants as $constant => $value)
+	foreach ($constants as $constant => $value)
 			define($constant, $value);
 	}
 }
