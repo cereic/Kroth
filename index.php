@@ -1,11 +1,4 @@
 <?php
-/*************************
-Kroth PHP Framework
-
-** Requirements: PHP >= 5
-
-*/
-
 $main_folder = 'main';
 $apps_folder = 'apps';
 
